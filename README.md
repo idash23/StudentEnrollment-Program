@@ -11,4 +11,4 @@ When you run the file
 -asks if you would want to add more courses inputing either yes or no.
 -when done registering it shows a success message and retrives the array that has the students that were registered in the system.
 
-*Note if you input wrong text the system will check for that and let you try again for the correct inpu
+*Note if you input wrong text the system will check for that and let you try again for the correct input
